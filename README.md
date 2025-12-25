@@ -25,7 +25,7 @@ The system logs GPS coordinates **only when an object is detected**, ensuring op
 ---
 
 ##  System Architecture
-1. Video/Camera Input
+1. Video Input
 2. Object Detection Model
 3. Conditional GPS Fetching
 4. Database Logging
@@ -45,4 +45,4 @@ The system logs GPS coordinates **only when an object is detected**, ensuring op
 | longitude | GPS longitude |
 
 ## Demo video Link
-
+https://youtube.com/shorts/VXbhGZKUESQ?si=QYrP_HOtpZR1LlFB
